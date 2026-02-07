@@ -2,4 +2,4 @@
 
 ## Conda entorno
 
-conda activate DBUdemy
+conda activate DBSQL
